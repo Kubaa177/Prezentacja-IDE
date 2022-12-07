@@ -1,0 +1,115 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.la {
+    position: relative;
+}
+.asd {
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+    
+}
+.h1a {
+    
+    font-size: 73px;
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    font-family: Italic;
+}
+.h3a {
+    font-size: 2rem;
+    position: absolute;
+    left: 32%;
+    top: 17.4%;
+    text-align: bottom;
+    padding-bottom: 3rem;
+    font-family:italic;
+}
+
+  
+h2 {
+    font-size: 2rem;
+    position: absolute;
+    left: 14%;
+    top: 67%;
+    text-align: bottom;
+    padding-bottom: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+h3{
+    font-size: 2rem;
+    position: absolute;
+    left: 14%;
+    top: 40%;
+    text-align: bottom;
+    padding-bottom: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    top: 83.5%;
+}
+.gtt {
+    font-size: 3rem;
+    position: absolute;
+    text-align: center;
+    left: 41.9%;
+    top:60%;
+    font-weight: 800;
+}
+.ducks4evr {
+    height: auto;
+    width: 100%;
+    opacity: 0.4;
+}
+.EdytoryTekstu{
+    font-size: 3rem;
+    position: absolute;
+    text-align: center;
+    left: 35%;
+    top: 77%;
+    font-weight: 800;
+}
+h4{
+    font-size: 2rem;
+    position: absolute;
+    left: 21%;
+    top: 290%;
+    text-align: bottom;
+    padding-bottom: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+h5{
+    font-size: 2rem;
+    position:absolute;
+    text-align: center;
+    max-width: 80%;
+    left:11.9%;
+    top:340%;
+    font-weight: 800;
+}
+.napewnonietło4{
+    width: 100%;
+    height: auto;
+    opacity: 0.4;
+}
+h6{
+    font-size: 73px;
+    font-family: italic;
+    top: 450%;
+    text-align: center;
+    position: absolute;
+    right: 40%;
+}
+.Koniec{
+    font-size: 14px;
+    top: 475%;
+    text-align: center;
+    position: absolute;
+    right:44.5%
+}
